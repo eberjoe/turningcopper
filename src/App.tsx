@@ -18,7 +18,7 @@ function App() {
             🪂 Click me : {count}
           </button>
 
-          <p>New things will be turning briefly! Keep tuned!</p>
+          <p>New things will spin up soon!</p>
         </div>
       </header>
     </div>
